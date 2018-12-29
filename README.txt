@@ -1,7 +1,5 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/frytyler/pen/EGdtg.
+## 3D Model of Cathedral
 
- I built this login form to block the front end of most of my freelance wordpress projects during the development stage. 
+I had used three.js to create it, all dependencies are in the js folder and bootstrap and jquery cdn's are used.
 
-This is just the HTML / CSS of it but it uses wordpress's login system. 
-
-Nice and Simple
+Can't explain much as I created this more than a year back, I did use blender for 3D object creation and three.js for 3D Javascript rendering.
